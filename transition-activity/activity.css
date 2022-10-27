@@ -1,1 +1,10 @@
+.container > button {
+    background-color: ghostwhite;
+    transition: 2s;
+}
 
+.container > button:hover {
+    filter: none;
+    background-color: cornflowerblue;
+    color: ghostwhite;
+}
